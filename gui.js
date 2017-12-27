@@ -39,7 +39,7 @@
 
             Pay:  adds a credit to the selected select-box account, if no account is selected then nothing happens
 
-            Charge: applys a charge to the selected select-box account, if no account is selected then nothing happens
+            Charge: applies a charge to the selected select-box account, if no account is selected, then nothing happens
 
             */
 
